@@ -1,0 +1,12 @@
+{
+  "skills": [
+    "context-engineering",
+    "ci-cd-and-automation",
+    "git-workflow-and-versioning",
+    "documentation-and-adrs"
+  ],
+  "tools": [
+    "GitHub",
+    "tool_search"
+  ]
+}

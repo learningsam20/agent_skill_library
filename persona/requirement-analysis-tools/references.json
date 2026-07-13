@@ -1,0 +1,12 @@
+{
+  "skills": [
+    "context-engineering",
+    "using-agent-skills",
+    "interview-me",
+    "idea-refine"
+  ],
+  "tools": [
+    "GitHub",
+    "tool_search"
+  ]
+}

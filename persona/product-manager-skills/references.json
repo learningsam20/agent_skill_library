@@ -1,0 +1,15 @@
+{
+  "skills": [
+    "context-engineering",
+    "api-and-interface-design",
+    "using-agent-skills",
+    "shipping-and-launch",
+    "spec-driven-development",
+    "planning-and-task-breakdown",
+    "documentation-and-adrs"
+  ],
+  "tools": [
+    "GitHub",
+    "tool_search"
+  ]
+}
